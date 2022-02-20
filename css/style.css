@@ -1,0 +1,421 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada:regular,700);
+.button_1a {
+
+    width: 200px;
+    height: 45px;
+    background-color: #4985FF;
+    padding: 13px 36px 15px 36px;
+    border: none;
+    font-size: 16px;
+    border-radius: 30px;
+    color: white;
+    
+} 
+.text_button {
+    width: 128px;
+    height: 17px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    margin: 0px;
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 64px;
+    color: white;
+    text-align: center;
+    margin: 312px auto;
+}
+
+.small__img {
+    width: 90px;
+    height: 90px;
+}
+
+a:hover {   
+    border-bottom:2px solid rgb(255, 255, 255);
+
+}    
+.text_first-screen__menu {
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    padding: 40px 20px 39px 20px;
+    color: white;
+    max-width: 100%;
+}   
+
+.h2_1 {
+    font-weight: 700px;
+    font-size: 36px;
+    width: 739px;
+    height: 88px;
+}
+
+.first-screen__menu {
+    width: 50%;
+    position: fixed;
+    right: 0px;
+    margin-top: 40px;
+    }
+
+.h1-block {
+    margin: auto;
+    height: 111px;
+    width: 859px;
+}
+
+header {
+    background-image: url(../img/Rectangle.png);
+    max-width: 1920px;
+    height: 900px;
+    max-width: 100%;
+}
+
+.h2_1 {
+    margin: 107px auto 50px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    
+}
+
+#p_after_h2 {
+    color: grey;
+    font-size: 16px;
+}
+
+.div_after_h2 {
+    width: 730px;
+    height: 41px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.radius {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 1px solid #E0E0E0;
+    float: left;
+    margin: 17px;
+
+
+}
+
+.radius_inside {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 1px solid #4985FF;
+    margin: 9px;
+}
+
+.triple_img {
+    width: 403px;
+    margin-top: 70px;
+    float: left;
+
+}
+
+h3 {
+    font-size: 18px;
+    margin-top: 60px;
+
+}
+
+.h3 {
+    border: 1px solid white;
+}
+
+#after_h3 {
+    font-size: 14px;
+    color: #999999;
+    width: 336px;
+}
+
+.x3 {
+    margin: 0 auto;
+    width: 1209px;
+    height: 170px;
+}
+
+.screen_3 {
+    width: 1920px;
+    height: 797px;
+    background-color: #F6F6F8;
+    position: relative;
+    max-width: 100%;
+}
+
+.h2_2 {
+    font-size: 36px;
+    width: 424px;
+    height: 88px;
+    text-align: left;
+}
+
+.p_screen_3 {
+    font-size: 16px;
+    color: grey;
+    display: block;
+    height: 117px;
+    width: 489px;
+}
+
+.for_h2 {
+    margin: 85px 0px 40px 337px;
+    float: left;
+}
+
+.blue {
+    color: #4985FF;
+    font-size: 16px;
+}
+
+.near_h2{
+    width: 508px;
+    height: 415px;
+    margin-left: 110px;
+    float: left;
+
+    background-image: url('../img/Rectangle 2.png');
+}
+
+.x5 {
+    margin:0px auto;
+    height: 600px;
+    max-width: 100%;
+    display: inline-block;
+}
+
+.container__x1{
+    display: inline-block;
+    margin-left: 371px;
+    text-align: center;
+}
+
+.x1 {
+    float: left;
+    margin: 50px;
+}
+
+.container_violet {
+    background: linear-gradient(100deg,#504DC2,#5F12D0    );
+width: 1920px;
+height: 490px;
+max-width: 100%;
+}
+
+.content_screen4 {
+    position: relative;
+    top: 100px;
+    max-width: 1110px;
+    margin: 0px auto;
+}
+
+.container_title_screen4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title_screen4 {        
+    font-size: 36px;
+    width: 499px;
+    height: 88px;
+    color: white;
+
+}
+
+.item_img {
+    background-image: url('../img/img_column.png');
+    height: 300px;
+    width: 350px;
+  
+}
+
+.item_title {
+    font-size: 18px;
+    color: #4985FF;
+    margin-top: 30px;
+}
+
+div.item_title:after {
+    content: "Исследование и упаковка";
+    color: black;
+}
+
+.item_p {
+    font-size: 16px;
+    color: grey;
+    margin: 30px 0px;
+}
+
+.item_a {
+    font-size: 16px;
+    color: #4985FF;
+}
+
+.columns {
+    margin-top: 70px;
+
+    display: flex;
+
+}
+
+.column {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column_item {
+    
+    flex: 0 1 350px;
+}
+
+.hr {
+    width: 1110px; 
+    color: #E0E0E0; 
+    margin: 70px 0px 0px 335px; 
+    display: inline-block;
+}
+
+.hr2 {
+    margin: 85px auto;
+}
+
+.our_projects {
+    width: 1920px;
+    height: 776px;
+    background: #F6F6F8;
+    margin-top: 482px;
+    max-width: 100%;
+
+
+}
+
+.container_our_project {
+    width: 1110px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.h2_our_project {
+
+    margin-top: 100px ;
+}
+
+.h2_op {
+    font-size: 36px;
+    
+}
+
+.text_our_projects {
+    width: 730px;
+    height: 41px;
+    color: grey;
+    font-size: 16px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.columns_our_project {
+    display: flex;
+    margin-top: 70px;
+    justify-content: space-between;
+
+}
+
+.column_our_project {
+    flex: 0 0 255px;
+    width: 255px;
+    height: 255px;
+    background-image: url("../img/img_our_projects.png");
+
+}
+
+.flex_containe {
+    width: 1110px;
+    height: 659px;
+    margin: 0px auto;
+}
+
+.last_buttion {
+    display: block;
+    margin: 70px auto;
+}
+
+.container_video {
+    width: 1920px;
+    height: 570px;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("../img/video_img.png")
+}
+
+.h2_video {
+    color: white;
+    font-size: 36px;
+    margin: 70px;
+    text-align: center;
+}
+
+.text_video {
+    display: block;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: -30px;
+    text-align: center;
+    margin: -30 auto;
+}
+
+.video {
+    position: relative;
+    top: 30px;
+    height: 430px;
+    width: 970px;
+    background: grey;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.img_123 {
+    max-width: 100%;
+    border-radius: 10px;
+
+}
+это я ищу способ как сделать кнопку прозрачную
+
+.video_button {
+    width: 300px;
+    height: 100px;
+    border-radius: 300px;
+    border: 2px solid #4CAF50; /* Green */
+        display: block;
+        margin-top:45px;
+        width: 350px;
+        padding: 15px;
+        color: 	#1C1C1C;
+        font-weight: bold;
+        font-family: Arial Unicode MS, sans-serif;
+        border: 3px solid 	#363636;
+        text-align: center;
+        outline:  1px solid #828282;
+        text-decoration: none;
+        transition: background-color 0.8s ease-in-out,
+                    color 0.8s ease-in-out;
+}
