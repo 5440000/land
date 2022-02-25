@@ -1,0 +1,14 @@
+.container {
+  width: 1240px;
+  margin: auto;
+  padding: 0 12px;
+}
+
+.section-title__title {
+  font-size: 25px;
+  color: #333;
+}
+
+.color-white {
+  color: #fff;
+}
